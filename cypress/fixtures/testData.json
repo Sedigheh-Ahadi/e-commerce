@@ -1,0 +1,27 @@
+{
+  "UserCredentials": {
+    "email": "ahadi.sedigheh@gmail.com",
+    "password": "12345"
+  },
+  "productInfo":[
+    {
+      "category":"Desktop",
+       "name":"iPod Nano",     
+      "Quantity":"3",
+      "price":"122"
+    },
+     {
+      "category":"Tablets",
+      "name":"iPod Touch",
+       "Quantity":"1",
+      "price":"194"
+    },
+    {
+      "category":"Laptops",
+      "name":"MacBook Pro",
+       "Quantity":"1",
+      "price":"2,000"
+    }
+
+  ]
+}
